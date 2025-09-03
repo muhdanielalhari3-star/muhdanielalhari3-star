@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I am a student at SMKN 6 Jember majoring in software engineering.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning laravel and php<br>- ⚡ In my free time I ...</p>
+<p align="left">I am a student at SMKN 6 Jember majoring in software engineering.<br><br>- 🔭 I’m working as @wpucourse<br>- 📚 I'm currently learning laravel and php<br>- ⚡ In my free time I ...</p>
 
 ###
 
@@ -78,11 +78,4 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhdanielalhari3-star/muhdanielalhari3-star/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhdanielalhari3-star/muhdanielalhari3-star/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muhdanielalhari3-star/muhdanielalhari3-star/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/muhdanielalhari3-star/muhdanielalhari3-star/output/snake.svg" alt="Snake animation" />
-
-###
+  
